@@ -30,4 +30,4 @@ Como Executar os testes da aplicação
 Para executar a a aplicação executar o comando abaixo 
   -> mvn spring-boot:run
   
-Qualquer dúvida fico a disposição. mor.alcantara@gmail.com)
+
