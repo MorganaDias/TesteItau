@@ -1,4 +1,5 @@
 ºººººººº Teste Técnico Itaú - Api de transferência de valores ºººººººº 
+
 O projeto consiste em uma API que exponha padrão REST (JSON) e atenda as seguintes funcionalidades: 1º. Endpoint para cadastrar um cliente, com as seguintes informações: id (único), nome, número da conta (único) e saldo em conta; 2º. Endpoint para listar todos os clientes cadastrados; 3º. Endpoint para buscar um cliente pelo número da conta; 4º. Endpoint para realizar transferência entre 2 contas. A conta origem precisa ter saldo o suficiente para a realização da transferência e a transferência deve ser de no máximo R$ 1000,00 reais; 5º. Endpoint para buscar as transferências relacionadas à uma conta, por ordem de data decrescente. E as transferências sem sucesso também devem armazenadas.
 
 ºººººººº Requisitos ºººººººº 1º. Solução desenvolvida em Java 8 ou superior; 
